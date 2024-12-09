@@ -1,0 +1,9 @@
+bin/
+
+.vscode/
+
+opencv-4.1.0/
+
+model/
+
+*.exe
